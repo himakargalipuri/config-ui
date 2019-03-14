@@ -1,0 +1,98 @@
+.appCover {
+    width: 100vw;
+    min-height: 100vh;
+    position: relative;
+}
+
+.appCover .topNav {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    padding: 5px 0;
+    border-bottom: 1px solid #3d3d3d;
+    background: #ffffff;
+    z-index: 999999;
+}
+
+.appCover .sideBar {
+    position: absolute;
+    top: 49px;
+    left: 0;
+    min-height: calc(100% - 49px);
+    width: 110px;
+    border-right: 1px solid #3d3d3d;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.appCover .sideBar button {
+    width: 100px;
+    margin: auto;
+    display: block;
+    white-space: normal;
+}
+
+.appCover .lvl-one {
+    position: absolute;
+    top: 49px;
+    left: 110px;
+    height: calc(100% - 49px);
+    width: 200px;
+    border-right: 1px solid #3d3d3d;
+}
+
+.appCover .lvl-two {
+    position: absolute;
+    top: 49px;
+    left: 310px;
+    height: calc(100% - 49px);
+    background: white;
+    width: 200px;
+    border-right: 1px solid #3d3d3d;
+}
+
+.lvl-close {
+    position: absolute;
+    top: -1px;
+    right: -30px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid #3d3d3d;
+    border-left: none;
+    border-top: none;
+    cursor: pointer;
+}
+
+.option-group-wrap{
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100%;
+}
+
+.option-group {
+    border-bottom: 1px dotted #adadad;
+}
+
+.option-group .option-group-title {
+    margin: 0;
+    height: 26px;
+}
+
+.appCover .lvl-one button,
+.appCover .lvl-two button {
+    display: block;
+    width: calc(100% - 10px);
+    margin: auto;
+    white-space: normal;
+}
+
+.appCover .lvl-two button {
+    display: block;
+    width: calc(100% - 10px);
+    margin: auto;
+    white-space: normal;
+}

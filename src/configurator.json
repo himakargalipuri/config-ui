@@ -1,0 +1,1032 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "EXTERIOR",
+            "type": null,
+            "info": "",
+            "img": "",
+            "status": true,
+            "level": 1,
+            "selectionType": null,
+            "selected": null,
+            "content": [
+                {
+                    "id": 1,
+                    "name": "PAINT",
+                    "type": 1,
+                    "info": "",
+                    "img": "",
+                    "status": true,
+                    "level": 2,
+                    "selectionType": 1,
+                    "selected": 3,
+                    "content": [
+                        {
+                            "id": 2,
+                            "name": "SOLID",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 3,
+                                    "name": "Bianco Isi",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Giallo Spica",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Giallo Evros",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Verde Scandal",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Blu Glauco",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Nero Aldebaran",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "name": "METALLIC",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 10,
+                                    "name": "Oro Elios",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 11,
+                                    "name": "Rosso Leto",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 12,
+                                    "name": "Rosso Mars",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 13,
+                                    "name": "Verde Ermes",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 14,
+                                    "name": "Azzurro Thetys",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 15,
+                                    "name": "Blu Nereid",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 16,
+                                    "name": "Blu Fontus",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 17,
+                                    "name": "Blu Hera",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 18,
+                                    "name": "Blu Caelum",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 19,
+                                    "name": "Nero Pegaso",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 20,
+                                    "name": "Grigio Antares",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 21,
+                                    "name": "Grigio Estoque",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 22,
+                                    "name": "Grigio Lynx",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        },
+                        {
+                            "id": 23,
+                            "name": "SPECIAL METALLIC",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 24,
+                                    "name": "Rosso Efesto",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 25,
+                                    "name": "Rosso Bia",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 26,
+                                    "name": "Blu Nila",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 27,
+                                    "name": "Blu Nethuns",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 28,
+                                    "name": "Blu Sideris",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        },
+                        {
+                            "id": 29,
+                            "name": "PEARL",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 30,
+                                    "name": "Balloon White",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 31,
+                                    "name": "New Giallo Orion",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 32,
+                                    "name": "Giallo Tenerife",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 33,
+                                    "name": "Arancio Argos",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 34,
+                                    "name": "Arancio Atlas",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 35,
+                                    "name": "Viola Pasifae",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 36,
+                                    "name": "Blu Aegir",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 37,
+                                    "name": "Blu Cepheus",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 38,
+                                    "name": "Verde Mantis",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 39,
+                                    "name": "Verde Ithaca",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 40,
+                                    "name": "Grigio Telesto",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        },
+                        {
+                            "id": 41,
+                            "name": "MATT",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 42,
+                                    "name": "Bianco Canopus",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 43,
+                                    "name": "Giallo Horus",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 44,
+                                    "name": "Marrone Apus",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 45,
+                                    "name": "Nero Nemesis",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 46,
+                                    "name": "Grigio Titans",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 47,
+                                    "name": "Grigio Adamas",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 48,
+                    "name": "RIMS",
+                    "type": 2,
+                    "info": "",
+                    "img": "",
+                    "status": true,
+                    "level": 2,
+                    "selectionType": 1,
+                    "selected": 50,
+                    "content": [
+                        {
+                            "id": 49,
+                            "name": "DIONE FORGED 20\"/21\"",
+                            "type": 2,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 50,
+                                    "name": "DIONE FORGED 20\"/21\" SILVER",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 51,
+                                    "name": "DIONE FORGED 20\"/21\" MATT TITANIUM",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 52,
+                                    "name": "DIONE FORGED 20\"/21\" SHINY BLACK",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 53,
+                                    "name": "DIONE FORGED 20\"/21\" DIAMOND FINISHED",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 54,
+                                    "name": "DIONE FORGED 20\"/21\" MATT BLACK (ADP)",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        },
+                        {
+                            "id": 55,
+                            "name": "DIANTHUS FORGED 20\"/21\"",
+                            "type": 2,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 56,
+                                    "name": "DIANTHUS FORGED 20\"/21\" SILVER WITH BLACK BOLT",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 57,
+                                    "name": "DIANTHUS FORGED 20\"/21\" SILVER WITH RED BOLT",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 58,
+                                    "name": "DIANTHUS FORGED 20\"/21\" SHINY BLACK WITH BLACK BOLT",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 59,
+                                    "name": "DIANTHUS FORGED 20\"/21\" SHINY BLACK WITH RED BOLT",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 60,
+                    "name": "BRAKE & CALIPERS",
+                    "type": 2,
+                    "info": "",
+                    "img": "",
+                    "status": true,
+                    "level": 2,
+                    "selectionType": 1,
+                    "selected": [61],
+                    "content": [
+                        {
+                            "id": 61,
+                            "name": "SILVER CALIPER",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null
+                        },
+                        {
+                            "id": 62,
+                            "name": "BLACK CALIPER",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null
+                        },
+                        {
+                            "id": 63,
+                            "name": "YELLOW CALIPER",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null
+                        },
+                        {
+                            "id": 64,
+                            "name": "GREEN CALIPER",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null
+                        },
+                        {
+                            "id": 65,
+                            "name": "ORANGE CALIPER",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null
+                        },
+                        {
+                            "id": 66,
+                            "name": "RED CALIPER",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null
+                        }
+                    ]
+                },
+                {
+                    "id": 67,
+                    "name": "ENGINE AREA",
+                    "type": 2,
+                    "info": "",
+                    "img": "",
+                    "status": true,
+                    "level": 2,
+                    "selectionType": 1,
+                    "selected": 69,
+                    "content": [
+                        {
+                            "id": 68,
+                            "name": "CARBON FIBER",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 69,
+                                    "name": "CARBON ENGINE COVER",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 70,
+                                    "name": "CARBON X-FRAME",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 71,
+                                    "name": "CARBON ENGINE BAY",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        },
+                        {
+                            "id": 72,
+                            "name": "COLORED SUSPENSION WITH LIFTING SYSTEM",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 73,
+                                    "name": "BLACK SUSPENSION",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 74,
+                                    "name": "RED SUSPENSION",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 75,
+                                    "name": "GREEN SUSPENSION",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 76,
+                    "name": "TOP VIEW",
+                    "type": 2,
+                    "info": "",
+                    "img": "",
+                    "status": true,
+                    "level": 2,
+                    "selectionType": 1,
+                    "selected": 78,
+                    "content": [
+                        {
+                            "id": 77,
+                            "name": "ENGINE BONNET",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 78,
+                                    "name": "BLACK ENGINE BONNET",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 79,
+                                    "name": "TRANSPARENT ENGINE BONNET",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 80,
+                                    "name": "CARBON FIBER ENGINE BONNET",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 81,
+                    "name": "DETAILS",
+                    "type": 2,
+                    "info": "",
+                    "img": "",
+                    "status": true,
+                    "level": 2,
+                    "selectionType": 1,
+                    "selected": [83, 84],
+                    "content": [
+                        {
+                            "id": 82,
+                            "name": "CARBON FIBER",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 83,
+                                    "name": "CARBON MIRRORS",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 84,
+                                    "name": "CARBON UPPER PART",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 85,
+                                    "name": "CARBON LOWER PART",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 86,
+                                    "name": "CARBON WHEEL CAP",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        },
+                        {
+                            "id": 87,
+                            "name": "STYLE PACK",
+                            "type": null,
+                            "info": "",
+                            "img": "",
+                            "status": true,
+                            "level": 3,
+                            "selectionType": null,
+                            "selected": null,
+                            "content": [
+                                {
+                                    "id": 88,
+                                    "name": "SHINY BLACK MIRRORS",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                },
+                                {
+                                    "id": 89,
+                                    "name": "STYLE PACKAGE",
+                                    "type": null,
+                                    "info": "",
+                                    "img": "",
+                                    "status": true,
+                                    "level": 4,
+                                    "selectionType": null,
+                                    "selected": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
